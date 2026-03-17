@@ -1,0 +1,8 @@
+Project: Student Details Management System
+
+This program collects student details such as:
+Name, Roll Number, Branch, Section,
+Email, Parent Name, Contact Number,
+Address, and Student Type (Day Scholar/Hosteller).
+
+It then displays all details.
