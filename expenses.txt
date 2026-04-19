@@ -1,1 +1,4 @@
-0 food
+500 food
+300 travel
+200 shopping
+150 bills
